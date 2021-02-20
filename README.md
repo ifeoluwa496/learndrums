@@ -1,2 +1,0 @@
-# learndrums
-learn drums website
